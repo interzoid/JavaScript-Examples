@@ -22,6 +22,22 @@ These are code examples showing how to call and utilize Interzoid's various Clou
 
 ![CryptoPrice](images/CryptoPrices.PNG)
 
+**GetEmailInformation.js** - Retrieves email validity and several other data points for a given email address - visit the API Page: https://www.interzoid.com/services/getemailinfo
+
+![EmailInformation](images/EmailInformation.PNG)
+
+**GetGlobalPhoneInformation.js** - Retrieves geographic information, mobile, language and other demographics for a global telephone number - visit the API Page: https://www.interzoid.com/services/getglobalnumberinfo
+
+![GlobalPhone](images/GlobalPhone.PNG)
+
+**GetPagePerformance.js** - Measures page load times or API call performance from one of 20+ global locations - visit the API Page: https://www.interzoid.com/services/globalpageload 
+
+![GlobalPageLoad](images/GlobalPageLoad.PNG)
+
+**GetWeatherFromZip.js** - Retrieves temperature and other information about current weather conditions for a zip code - visit the API Page: https://www.interzoid.com/services/getweatherzip
+
+![Weather](images/Weather.PNG)
+
 To register for your free **API Key** (a block of free API credits), visit here: https://www.interzoid.com/register  
   
   
